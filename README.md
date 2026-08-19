@@ -10,7 +10,7 @@ Instructions and notebooks to find SAT bandpass data taken with a stationary HWP
 - one array has data taken with a spinning HWP (mv18, ws4)
 - so far, only data for the central wafer (mv19) has been uploaded. datasets with a shared HWP position (this required the same boresight position and not having attempted HWP spins in between) are obs 1 + 4 and obs 2 + 5 and obs 3 + 6, though not all have great SNRs.
 
-- <img width="538" height="1868" alt="image" src="https://github.com/user-attachments/assets/e2e69487-ee1c-4b2c-ac4a-e5630e3b7ce7" />
+- <img width="1538*0.5" height="1868*0.5" alt="image" src="https://github.com/user-attachments/assets/e2e69487-ee1c-4b2c-ac4a-e5630e3b7ce7" />
 
 
 ## Potentially useful slide decks
