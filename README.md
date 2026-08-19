@@ -9,4 +9,5 @@ Instructions and notebooks to find SAT bandpass data taken with a stationary HWP
 - [fill in with names of hwp datasets that were taken with the same hwp pos]
 
 ## Potentially useful slide decks
-- [all bandpass measurements](https://docs.google.com/presentation/d/1_3dCySDKpVan37jct_j05-rmOUUrWt6lT369uAkgOJY/edit?usp=sharing) slide deck, specifically slide 36
+- [all bandpass measurements](https://docs.google.com/presentation/d/1_3dCySDKpVan37jct_j05-rmOUUrWt6lT369uAkgOJY/edit?usp=sharing), specifically slide 36
+- [Stationary HWP correction visit](https://docs.google.com/presentation/d/1CtkmnkuuGjYiMAxjhlR7AQPZV4gERWiMYlxIG8JSW0M/edit?usp=sharing)
