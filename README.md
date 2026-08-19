@@ -2,7 +2,7 @@
 Instructions and notebooks to find SAT bandpass data taken with a stationary HWP.
 
 ## Log
--  8/19/2026: added four more datasets of mv19 (central wafer), located in data/mv19, and added a notebook that shows how to plot the positions of the measured detectors (260818_inspect_mv19_...)
+-  8/19/2026: added four more datasets of mv19 (central wafer), located in <code>data/mv19</code>, and added a notebook that shows how to plot the positions of the measured detectors (<code>notebooks/260818_inspect_mv19_bands_data.ipynb</code>)
 
 ## Notes
 - the majority of FTS data were taken with a stationary HWP
